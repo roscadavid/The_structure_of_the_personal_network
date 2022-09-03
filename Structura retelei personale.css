@@ -1,0 +1,53 @@
+p{font-family:"Times New Roman";
+  font-style:italic;
+  font-size:20px;
+  color:DodgerBlue;}
+h2 { align:center;
+    text-decoration:underline;
+	color:green;
+	font-size:italic;
+	font-size:28px;
+	font-family:"Modern No. 20";
+	background-color:yellow;
+}
+h1 {  background-color:#99CC99;
+	 font-family:"Engravers MT";
+	 color:#006699;
+	 border:6px solid black;
+	 }
+h3 {
+	font-style:italic;
+	font-size: 15px;
+	color :red;}
+
+.table, th, td {
+	
+   border: 4px solid blue;
+   text-align:center;
+}
+.listecaracteristici
+{
+	 margin-left:350px;
+	 margin-right:350px;
+
+}
+.imagine{
+	border-radius:15%;
+	height: 430px;
+	width: 400px;
+	opacity:0.7;
+	filter:alpha(opacity=90);
+	}
+.titlu {
+	color:green;
+	text-align: center;
+	text-decoration: underline;	
+}
+div {
+	padding:56px;
+	border:5px solid;
+	margin:40px;
+    border-color:#FF9900;
+    background-color:#99CCFF;
+
+}
