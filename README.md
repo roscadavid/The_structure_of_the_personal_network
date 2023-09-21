@@ -1,4 +1,4 @@
-# The-structure-of-the-personal-network
+# The structure of the personal network
 Description:
 
  Developed a personal network web page using HTML, CSS, and JS.
